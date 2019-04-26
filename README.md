@@ -3,23 +3,27 @@
 # [ الشات والمجتمع الرسمي علي Slack](https://join.slack.com/t/csistudents/shared_invite/enQtNjIyMDk2ODkyNDIyLTg5YzNhNWUzM2VmYjdjNTg0NzFmY2Q0NzI5MDI5Y2E5NDZiMGU3YjM2ZWUxYTdkMDAwNDJiZDU5OTQxZjM2MjQ)
 # Second Term
 ## Electronics - الالكترونيات
-جاري الرفع
-[شرح العملي وبرنامج ملتي سيم]()
+- جاري الرفع
+- [شرح العملي وبرنامج ملتي سيم]()
 
 [تحميل برنامج ملتي سيم](https://www.file-up.org/mtdw13jyf3v3)
 ## Computer Programming - البرمجة
-[NetBeans](https://netbeans.org/downloads/8.0.2/)
+- [NetBeans](https://netbeans.org/downloads/8.0.2/)
 
 or
 
-[Intellij IDEA](https://www.jetbrains.com/idea/download/)
+- [Intellij IDEA](https://www.jetbrains.com/idea/download/)
 
-[Java 8 SE](2133155)
+- [Java 8 SE](2133155)
 
-[حل الشيتات عملي](https://github.com/th3blackscare/Programming-Sheets)
+- [حل الشيتات عملي](https://github.com/th3blackscare/Programming-Sheets)
 
 ## مادة مقدمة نظم المعلومات
 جاري الرفع
-[Visio 2007 Download]()
+- [Visio 2007 Download]()
 
 الشرح العملي سيتم اضافته
+
+## Math II - رياضيات 2
+## الاجزاء الملغية
+- الفصل الثالث
