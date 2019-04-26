@@ -8,10 +8,17 @@
 [تحميل برنامج ملتي سيم](https://www.file-up.org/mtdw13jyf3v3)
 ## Computer Programming - البرمجة
 [NetBeans](https://netbeans.org/downloads/8.0.2/)
+
 or
+
 [Intellij IDEA](https://www.jetbrains.com/idea/download/)
+
 [Java 8 SE](2133155)
+
 [حل الشيتات عملي](https://github.com/th3blackscare/Programming-Sheets)
+
 ## مادة مقدمة نظم المعلومات
+
 [Visio 2007 Download]()
+
 الشرح العملي سيتم اضافته
