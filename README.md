@@ -19,7 +19,7 @@ or
 [حل الشيتات عملي](https://github.com/th3blackscare/Programming-Sheets)
 
 ## مادة مقدمة نظم المعلومات
-
+جاري الرفع
 [Visio 2007 Download]()
 
 الشرح العملي سيتم اضافته
