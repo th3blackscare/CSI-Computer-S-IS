@@ -3,6 +3,7 @@
 # [ الشات والمجتمع الرسمي علي Slack](https://join.slack.com/t/csistudents/shared_invite/enQtNjIyMDk2ODkyNDIyLTg5YzNhNWUzM2VmYjdjNTg0NzFmY2Q0NzI5MDI5Y2E5NDZiMGU3YjM2ZWUxYTdkMDAwNDJiZDU5OTQxZjM2MjQ)
 # Second Term
 ## Electronics - الالكترونيات
+جاري الرفع
 [شرح العملي وبرنامج ملتي سيم]()
 
 [تحميل برنامج ملتي سيم](https://www.file-up.org/mtdw13jyf3v3)
