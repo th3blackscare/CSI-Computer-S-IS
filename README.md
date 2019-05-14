@@ -4,7 +4,11 @@
 # Second Term
 ## Electronics - الالكترونيات
 
-- [شرح العملي وبرنامج ملتي سيم](https://youtu.be/Wk8EapZfE_Y)
+- [شرح تثبيت برنامج ملتي سيم](https://youtu.be/H-g17V3o2XY)
+
+- [شرح العملي وبرنامج ملتي سيم الجزء الاول](https://youtu.be/Wk8EapZfE_Y)
+
+- [شرح العملي وبرنامج ملتي سيم الجزء الثاني(الترانزستور)](https://youtu.be/yQKSf7rmcXk)
 
 - [تحميل برنامج ملتي سيم](https://www.file-up.org/mtdw13jyf3v3)
 ## Computer Programming - البرمجة
