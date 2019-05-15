@@ -24,7 +24,7 @@ or
 
 ## مادة مقدمة نظم المعلومات
 
-- [Visio 2007 Download](http://www.mediafire.com/download/66q623qcyazksq0/Visio+2007.rar)
+- [Visio 2007 Download](https://download.microsoft.com/download/3/3/7/337eedad-7ea6-49ec-856b-3b8845d90c6a/visio2007sp1-kb937155-fullfile-en-us.exe)
 
 - الشرح العملي سيتم اضافته
 
