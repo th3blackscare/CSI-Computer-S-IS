@@ -1,7 +1,9 @@
 # Main Repository for CSI - CS and IS Students  Year 2018-2019
 # المرجع الرئيسي لطلاب علوم الحاسب ونظم المعلومات بمدينة الثقافة والعلوم دفعة عام 2018-2019
 # [ الشات والمجتمع الرسمي علي Slack](https://join.slack.com/t/csistudents/shared_invite/enQtNjIyMDk2ODkyNDIyLTg5YzNhNWUzM2VmYjdjNTg0NzFmY2Q0NzI5MDI5Y2E5NDZiMGU3YjM2ZWUxYTdkMDAwNDJiZDU5OTQxZjM2MjQ)
-# [شات اتحاد المبرمجين علي الواتساب] (https://chat.whatsapp.com/IemgBbrazA25jFI4feNjMT)
+# [شات اتحاد المبرمجين علي الواتساب](https://chat.whatsapp.com/IemgBbrazA25jFI4feNjMT)
+- [الرسائل المهمة من الشات](https://github.com/th3blackscare/CSI-Computer-S-IS/blob/master/Chat-History/Chat-History.md)
+- [الملفات التي تم ارسالها في الشات](https://github.com/th3blackscare/CSI-Computer-S-IS/tree/master/Files)
 # Second Term
 ## Electronics - الالكترونيات
 
