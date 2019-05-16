@@ -24,6 +24,7 @@ or
 - [Java 8 SE](2133155)
 
 - [حل الشيتات عملي](https://github.com/th3blackscare/Programming-Sheets)
+- [شرح الـ Arrays](https://youtu.be/N-UAlGhqj6w)
 
 ## مادة مقدمة نظم المعلومات
 
