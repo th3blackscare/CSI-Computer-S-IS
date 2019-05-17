@@ -7,3 +7,5 @@
 ## 5:49PM CT
 
 - [شبكات - Cisco CCNA 200-125](https://www.youtube.com/playlist?list=PL0No-TEGJZDXV1M2hCqPgCZkvKEiYzpkP) By Omar Sharif
+## 7:44PM CT
+- [الجزء الثالث والاخير من شرح العملي لمادة الالكترونيات](https://youtu.be/KoQhNCvVOvw) By Omar Sharif
