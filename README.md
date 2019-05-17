@@ -13,6 +13,9 @@
 
 - [شرح العملي وبرنامج ملتي سيم الجزء الثاني(الترانزستور)](https://youtu.be/yQKSf7rmcXk)
 
+- [شرح العملي وبرنامج ملتي سيم الجزء الثالث (Amplifiers)](https://youtu.be/KoQhNCvVOvw) By Omar Sharif
+
+
 - [تحميل برنامج ملتي سيم](https://www.file-up.org/mtdw13jyf3v3)
 ## Computer Programming - البرمجة
 - [NetBeans](https://netbeans.org/downloads/8.0.2/)
