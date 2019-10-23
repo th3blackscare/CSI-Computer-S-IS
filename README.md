@@ -1,9 +1,6 @@
-# Main Repository for CSI - CS and IS Students  Year 2018-2019
-# المرجع الرئيسي لطلاب علوم الحاسب ونظم المعلومات بمدينة الثقافة والعلوم دفعة عام 2018-2019
-# [ الشات والمجتمع الرسمي علي Slack](https://join.slack.com/t/csistudents/shared_invite/enQtNjIyMDk2ODkyNDIyLTg5YzNhNWUzM2VmYjdjNTg0NzFmY2Q0NzI5MDI5Y2E5NDZiMGU3YjM2ZWUxYTdkMDAwNDJiZDU5OTQxZjM2MjQ)
-# [شات اتحاد المبرمجين علي الواتساب](https://chat.whatsapp.com/IemgBbrazA25jFI4feNjMT)
-- [الرسائل المهمة من الشات](https://github.com/th3blackscare/CSI-Computer-S-IS/blob/master/Chat-History/Chat-History.md)
-- [الملفات التي تم ارسالها في الشات](https://github.com/th3blackscare/CSI-Computer-S-IS/tree/master/Files)
+# Main Repository for CSI - CS and IS Students  
+# المرجع الرئيسي لطلاب علوم الحاسب ونظم المعلومات بمدينة الثقافة والعلوم دفعة
+# Level 1 Year 2018-2019 
 # Second Term
 ## Electronics - الالكترونيات
 
@@ -34,3 +31,7 @@ or
 - [Visio 2007 Download](https://download.microsoft.com/download/3/3/7/337eedad-7ea6-49ec-856b-3b8845d90c6a/visio2007sp1-kb937155-fullfile-en-us.exe)
 
 - الشرح العملي سيتم اضافته
+
+# Level 2 year 2019-2020 
+## First Term
+- to be added
