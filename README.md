@@ -33,7 +33,7 @@ or
 - الشرح العملي سيتم اضافته
 
 # Level 2 year 2019-2020 
-# before pressing any fuckin' link, read this... i'm just doing this for fun,depending on my knowledge, so every time you come here just remember that. so next time you want to talk about me just remember you are a fuckin' idiot and go to hell.
+# before pressing any fuckin' link in this part of page, read this... i'm just doing this for fun,depending on my knowledge, so every time you come here just remember that. so next time you want to talk about me just remember you are a fuckin' idiot, go to hell.
 
 ## First Term
 
