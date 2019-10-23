@@ -43,3 +43,4 @@ or
 
 ## DataBase - قواعد البيانات
  - [SQL Server شرح تثبيت الـ](https://youtu.be/TteGZY5RaVk)
+ - [SQL Video 1 - create DB and Table](#)
