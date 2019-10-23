@@ -34,4 +34,7 @@ or
 
 # Level 2 year 2019-2020 
 ## First Term
-- to be added
+
+## Computer Programming - البرمجة
+
+- [حل الشيتات عملي](https://github.com/th3blackscare/Programming-Sheets/tree/master/Level-2)
